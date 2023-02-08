@@ -1,7 +1,7 @@
 # webscraping-cia
 
-He realizado un web scraping a la pagina de la CIA donde extraigo la informacion que ellos han revelado, utlice como Framework Scrapy y cree un Spider para extraer la informacion
+He llevado a cabo un web scraping en la página de la CIA con el objetivo de obtener información publicada por ellos. Para ello, utilicé el framework Scrapy y desarrollé un Spider especializado en la extracción de datos. De esta manera, pude obtener de manera eficiente y organizada la información relevante
 
 [ENGLISH]
 <br>
-I have performed a web scraping to the CIA website where I extract the information they have revealed, I used Scrapy as Framework and created a Spider to extract the information.
+I carried out a web scraping on the CIA website in order to obtain information published by them. For this, I used the Scrapy framework and developed a Spider specialized in data extraction. In this way, I was able to obtain the relevant information in an efficient and organized way.
